@@ -5,6 +5,8 @@
   margin: 1%;
   border: 1px dashed yellow;
 }
+.mainDiv {
+}
 
 #mainDiv {
   width: 100%;
@@ -12,10 +14,10 @@
 .gmailDiv {
   height: 30%;
   width: 30%;
-  float: left;
   margin: 0.5%;
   padding: 0.5%;
   margin-left: 1.5%;
+  float: left;
 }
 h1 {
   text-align: center;
